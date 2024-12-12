@@ -1,0 +1,16 @@
+.container {
+
+    font-family: "Comic Sans MS"
+}
+.search{
+    position: relative;
+    right: -47%;
+}
+
+.form {
+
+    width: 470px;
+    position: relative;
+    right: -525px;
+    
+}
